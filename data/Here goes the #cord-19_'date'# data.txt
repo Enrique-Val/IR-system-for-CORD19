@@ -1,0 +1,17 @@
+Here goes the #cord-19_'date'# data. The specific data used in our experiments is the July 16, 200 release of CORD-19 corpus. It can be downloaded at https://ai2-semanticscholar-cord-19.s3-us-west-2.amazonaws.com/historical_releases/cord-19_2020-07-16.tar.gz
+
+In total, it's over 10GB of data, so we decided not to commit it.
+
+
+With the data, the directory should look like:
+
+data
+|   changelog
+|   cord_19_embedding_2020-07-16.csv
+|   metadata.csv
+|
++---document_parses
+|   +---pdf_json
+|	|	\(pdf.json files)
+|   \---pmc_json
+|		\(pdf.json files)

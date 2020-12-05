@@ -8,3 +8,4 @@ notebooks/vsm_docs.mm.index
 data/cord_19_embeddings_2020-07-16.csv
 data/cord-19_2020-07-16.tar
 data/changelog
+notebooks/.ipynb_checkpoints/Vector_Space_System-checkpoint.ipynb

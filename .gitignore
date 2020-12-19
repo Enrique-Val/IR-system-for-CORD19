@@ -9,3 +9,11 @@ data/cord_19_embeddings_2020-07-16.csv
 data/cord-19_2020-07-16.tar
 data/changelog
 notebooks/.ipynb_checkpoints/Vector_Space_System-checkpoint.ipynb
+notebooks/simple_vsm_docs.mm.index
+notebooks/simple_vsm_docs.mm
+notebooks/simple_vsm.dict
+notebooks/.ipynb_checkpoints/Vector_Space_System-checkpoint.ipynb
+notebooks/wcs_vsm.dict
+notebooks/wcs_vsm_docs.mm
+notebooks/wcs_vsm_docs.mm.index
+notebooks/.ipynb_checkpoints/Vector_Space_System-checkpoint.ipynb

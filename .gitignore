@@ -17,3 +17,4 @@ notebooks/wcs_vsm.dict
 notebooks/wcs_vsm_docs.mm
 notebooks/wcs_vsm_docs.mm.index
 notebooks/.ipynb_checkpoints/Vector_Space_System-checkpoint.ipynb
+data/raw/*
